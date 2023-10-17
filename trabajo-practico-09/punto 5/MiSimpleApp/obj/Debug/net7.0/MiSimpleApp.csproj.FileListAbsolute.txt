@@ -1,0 +1,14 @@
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\bin\Debug\net7.0\MiSimpleApp.exe
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\bin\Debug\net7.0\MiSimpleApp.deps.json
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\bin\Debug\net7.0\MiSimpleApp.runtimeconfig.json
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\bin\Debug\net7.0\MiSimpleApp.dll
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\bin\Debug\net7.0\MiSimpleApp.pdb
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.AssemblyInfoInputs.cache
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.AssemblyInfo.cs
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.csproj.CoreCompileInputs.cache
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.dll
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\refint\MiSimpleApp.dll
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.pdb
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\MiSimpleApp.genruntimeconfig.cache
+c:\Users\Joaquin\Desktop\ing-software-3\trabajo-practico-09\MiSimpleApp\obj\Debug\net7.0\ref\MiSimpleApp.dll

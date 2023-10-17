@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRZHJ7qV9pIxlHqkRiTzL4+izBrQePq6L96YDd/WPLa3gF8CZvGbGMwB75yNMn1orL0hcKPonC+TT9LPah6y9Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Joaquin\\Desktop\\ing-software-3\\trabajo-practico-09\\punto 8\\MiNotSoSimpleApp\\MiNotSoSimpleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\system.net.http.json\\7.0.0\\system.net.http.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
